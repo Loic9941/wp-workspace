@@ -1,0 +1,6 @@
+[submodule "wp-core"]
+	path = wp-core
+	url = https://github.com/Loic9941/wp-core.git
+[submodule "wp-starter"]
+	path = wp-starter
+	url = https://github.com/Loic9941/wp-starter.git
